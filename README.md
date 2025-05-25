@@ -1,4 +1,4 @@
-# Hi, I'm [Map] 👋
+# Hi, I'm Map👋
 
 🎯 Aspiring JavaScript Developer | 💻 Passionate about Frontend Development | 🚀 Focused on building clean and useful web applications
 
