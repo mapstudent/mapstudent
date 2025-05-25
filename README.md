@@ -37,8 +37,8 @@ A fully functional To-Do List with:
 
 ## 📫 Let's Connect
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourlinkedin)
+- GitHub: [@mapstudent](https://github.com/mapstudent)
+- LinkedIn: [Map Ly](https://www.linkedin.com/in/maply/)
 - Email: maply0101@gmail.com
 
 ---
