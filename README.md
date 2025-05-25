@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm [Map] 👋
 
-<!--
-**mapstudent/mapstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring JavaScript Developer | 💻 Passionate about Frontend Development | 🚀 Focused on building clean and useful web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **JavaScript (DOM, LocalStorage, Browser APIs, Node.js)**
+- 🛠️ Working on real-world projects to sharpen my skills
+- 🎯 Goal: Become a full-time JavaScript Developer
+- 👶 Also a dedicated father, balancing coding and family life ❤️
+
+---
+
+## 🧰 Tech Stack
+
+- 💻 HTML, CSS, JavaScript (ES6+)
+- 🌐 DOM Manipulation, LocalStorage, Fetch API
+- 🧪 Building: Projects with login, theme toggle, dynamic UI
+- ⏳ Learning: Node.js, Express.js, and MongoDB (soon)
+
+---
+
+## 📌 Highlight Projects
+
+### 📝 [To-Do List Pro](https://github.com/yourusername/todo-list-pro)
+A fully functional To-Do List with:
+- Registration & login system
+- Dark/light mode
+- LocalStorage data persistence
+- Responsive and clean UI
+
+➡️ Check it out: [View on GitHub](https://github.com/yourusername/todo-list-pro)
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your Name](https://linkedin.com/in/yourlinkedin)
+- Email: maply0101@gmail.com
+
+---
+
+> 💡 "Every line of code I write is a step closer to the developer I want to become."
+
