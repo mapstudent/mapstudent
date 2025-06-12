@@ -1,6 +1,6 @@
 # Hi, I'm Map👋
 
-🎯 Aspiring JavaScript Developer | 💻 Learning about Frontend Development and Backend with Node.js
+🎯 JavaScript Developer | 💻 Learning about Frontend Development and Backend with Node.js
 
 ---
 
