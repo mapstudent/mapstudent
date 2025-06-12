@@ -43,5 +43,3 @@ A fully functional To-Do List with:
 
 ---
 
-> 💡 "Every line of code I write is a step closer to the developer I want to become."
-
