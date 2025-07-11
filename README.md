@@ -4,25 +4,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🌱 Currently learning **JavaScript (DOM, LocalStorage, Browser APIs, Node.js)**
-- 🛠️ Working on real-world projects to sharpen my skills
-- 🎯 Goal: Become a full-time JavaScript Developer
-- 👶 Also a dedicated father, balancing coding and family life ❤️
-
----
-
-## 🧰 Tech Stack
-
-- 💻 HTML, CSS, JavaScript (ES6+)
-- 🌐 DOM Manipulation, LocalStorage, Fetch API
-- 🧪 Building: Projects with login, theme toggle, dynamic UI
-- ⏳ Learning: Node.js, Express.js, and MongoDB (soon)
+-  Currently learning **JavaScript (DOM, LocalStorage, Browser APIs, Node.js)**
+-  Working on real-world projects to sharpen my skills
+-  Goal: Become a full-time JavaScript Developer
+-  Also a dedicated father, balancing coding and family life ❤️
 
 ---
 
-## 📌 Highlight Projects
+##  Tech Stack
+
+-  HTML, CSS, JavaScript (ES6+)
+-  DOM Manipulation, LocalStorage, Fetch API
+-  Building: Projects with login, theme toggle, dynamic UI
+-  Learning: Node.js, Express.js, and MongoDB (soon)
+
+---
+
+##  Highlight Projects
 
 ### 📝 [To-Do List Pro](https://github.com/yourusername/todo-list-pro)
 A fully functional To-Do List with:
